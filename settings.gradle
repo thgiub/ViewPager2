@@ -1,2 +1,8 @@
+include ':features:music_api'
+include ':features:music'
 include ':app'
+include ':data'
+include ':entities'
+
+
 rootProject.name = "ViewPager2"

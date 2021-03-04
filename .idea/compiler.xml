@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="1.7">
+      <module name="ViewPager2.app" target="1.8" />
+      <module name="ViewPager2.data" target="1.8" />
+      <module name="ViewPager2.featurec.music" target="1.8" />
+      <module name="ViewPager2.features.music" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
